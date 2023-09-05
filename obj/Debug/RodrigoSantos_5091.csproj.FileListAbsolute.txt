@@ -1,0 +1,8 @@
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\bin\Debug\RodrigoSantos_5091.exe.config
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\bin\Debug\RodrigoSantos_5091.exe
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\bin\Debug\RodrigoSantos_5091.pdb
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\obj\Debug\RodrigoSantos_5091.csproj.AssemblyReference.cache
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\obj\Debug\RodrigoSantos_5091.csproj.SuggestedBindingRedirects.cache
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\obj\Debug\RodrigoSantos_5091.csproj.CoreCompileInputs.cache
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\obj\Debug\RodrigoSantos_5091.exe
+C:\Visual_Studio2022\Project\RodrigoSantos_5091\RodrigoSantos_5091\obj\Debug\RodrigoSantos_5091.pdb
